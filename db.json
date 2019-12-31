@@ -1,0 +1,11 @@
+{
+  "poc_posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "poc_profile": {
+    "name": "typicode"
+  }
+}
