@@ -13,7 +13,13 @@
     "name": "typicode"
   },
   "mcheyne": [
-    {"id": "1", "secret01": "Genesis 1 ", "secret02": " Matthew 1", "family01": "Ezra 1 ", "family02": " Acts 1"},
-    {"id": "2", "secret01": "Genesis 2 ", "secret02": " Matthew 2", "family01": "Ezra 2 ", "family02": " Acts 2"}
+{
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "works"
+    }
   ]
 }
